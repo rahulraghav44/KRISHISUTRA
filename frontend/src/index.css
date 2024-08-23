@@ -1,0 +1,76 @@
+body {
+  background-image: url("../public/media/lines.png");
+  background-repeat: repeat;
+
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.aboutBackground{
+  
+  background-image: url("../public/media/farm2-sectionbg3.png");
+  height: 90rem;
+  margin-top: -50px;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  margin-left: 40px;
+
+}
+.navbar{
+  width: 100%;
+  background-color: #2d4838;
+  color: white;
+}
+button{
+  margin-left: 6rem;
+  background-color: #5e9b50;
+  padding: 25px 55px 25px 55px;
+  font-size: 20px;
+  height: 100px;
+  width: 300px;
+  color: white;
+}
+.title{
+  margin-left:400px;
+  margin-top: 50px;
+}
+nav{
+  color: white;
+}
+.team{
+  margin-top: 5rem;
+}
+
+.Service{
+  margin-top: 24rem;
+  margin-left: 9rem;
+}
+
+#navbarSupportedContent{
+  margin-left: 40rem;
+
+}
+#logo{
+  height: 80px;
+}
+.SupportBackgroundImage{
+  background-image: url("../public/media/farm2-sectionbg5.jpg");
+  height: 60rem;
+  width: auto;
+}
+.detail{
+  background-image: url('../public/media/farm2-sectionbg3.png');
+  height: 60rem;
+  width: 78rem;
+  margin-top: -20rem;
+  margin-left: 15rem;
+}
